@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditTextPreference
+        android:id="@+id/editTextPreferenceUserName"
+        android:key="userConfig"
+        android:title="@string/nombre_De_usuario"
+        android:summary="@string/sumaryusername"
+        ></EditTextPreference>
+    <EditTextPreference
+        android:key="userPassword"
+        android:title="@string/contraseña"
+        android:summary="@string/contraseña_summary"></EditTextPreference>
+    <SwitchPreference
+        android:key="mailNotifications"
+        android:title="@string/notificaciones_title"
+        android:summary="@string/notificaciones_summary" />
+</PreferenceScreen>

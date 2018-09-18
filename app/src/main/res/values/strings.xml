@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Mision7</string>
+    <string name="bienvenido_a_parking_control">Bienvenido a Parking Control</string>
+    <string name="inicia_sesión_para_empezar">Inicia sesión para empezar</string>
+    <string name="nombre_de_usuario">Nombre de usuario</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="recordarme">Recordarme</string>
+    <string name="iniciar_sesi_n">Iniciar sesión</string>
+    <string name="parkingControl">Parking Control</string>
+    <string name="mi_cuenta">Mi Cuenta</string>
+    <string name="parqueos">Parqueos</string>
+    <string name="drawerAbierto">abierto</string>
+    <string name="drawerCerrado">cerrado</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="no_de_matr_cula">No. de matrícula</string>
+    <string name="idCliente">ID del cliente</string>
+    <string name="registrar_parqueo">Registrar Parqueo</string>
+    <string name="registrar">Registrar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="llenar_datos">Ingresa los campos requeridos</string>
+    <string name="usuario">Usuario</string>
+    <string name="nombre_De_usuario">Nombre de usuario</string>
+    <string name="sumaryusername">El nombre con el que te identificas dentro de la aplicación</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="contraseña_summary">Clave que te permite iniciar sesión en la aplicación</string>
+    <string name="notificaciones_title">Notificaciones por correo electrónico</string>
+    <string name="notificaciones_summary">Recibe notificaciones de la aplicación, noticias e información en tu cuenta de correo</string>
+    <string name="exportar_registros">Exportar registros</string>
+    <string name="cerrar_sesi_n">Cerrar sesión</string>
+    <string name="aceptar">aceptar</string>
+    <string name="asignaturas">Asignaturas</string>
+
+
+    <array name="export_options">
+        <item>Sin conservar los registros localmente</item>
+        <item>Conservando los registros localmente</item>
+    </array>
+</resources>
